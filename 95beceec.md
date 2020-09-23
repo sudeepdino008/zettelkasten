@@ -1,5 +1,8 @@
 ---
 date: 2020-09-22T00:54
+tags: 
+  - ambition
+  - porn
 ---
 
 # have it all

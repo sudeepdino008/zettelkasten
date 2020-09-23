@@ -1,0 +1,14 @@
+---
+date: 2020-09-22T13:25
+---
+
+# Polarization
+
+
+- Social media's recommendation engine is geared towards getting more engagement. 
+- The algorithm has been designed or evolved to a point where it exploits confirmation biases - the tendency to search/interpret/focus on information that confirms one's own beliefs.
+- You are shown videos which have worked on you before. Or news feed which are aligned with your beliefs.
+- This leads to Polarization, which has been on a massive rise recently - people are not friends with people having opposing views.
+
+# Mitigation:
+- <69e19362>
