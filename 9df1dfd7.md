@@ -110,3 +110,7 @@ It's not that your values are inherently unknowable, if you live long enough, yo
 - You might think that you don't care about people outside your social group. But is it really true? Are you confusing caring and feeling?
 - It's possible to be not feel anything for a person, and still care for ze (as much as you do for your friends, if not more).
 - The question remains as to why you would want to do such a thing. 
+
+
+## Will two ideal rationalist always agree?
+No. Because the two might have different value systems, and that can cause them to agree to different paths. 
