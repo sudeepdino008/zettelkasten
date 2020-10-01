@@ -35,20 +35,6 @@ Humans were seen as inherently good, and even though at the base level we are an
 Of course, for people to truly change, there has to be a shift in how they 'got aling and got ahead'. The 19th century was a time of great economic revolution, in which fiscal opportunities exploded into spaces other than agriculture. The Patent system is one example of this - it prompted many inventors to, well invent, and get rich.
 
 
-## Projection bias
-This is a technical, human-decision-theory term for "short-sightedness". When taking current decisions (which has future implications), we tend to project our current emotions to the future i.e. people's estimations are contaminated by their current emotional state. For example, after a student fails his exams, ze is likely to underestimate how much ze will enjoy a party 3 weeks from the results.  
-Projection bias can arise from **empathy gaps** - basically when a person fail to take the future psychological state into account.
-A similar concept is Personality neglect, which refers to a person's tendency to overlook their personality when making decisions about future emotions.  
-Projection bias influences the lifecycle of consumption. The immediate utility obtained from consuming the project exceeds the future utility. So people tend to consume too much early in life, and too little late in life, relative to what would be optimal.
-
-## Hot cold empathy Gap
-It's a cognitive bias which happens because we underestimate the influence of visceral emotions (anger, hunger, drug addition etc.) on their attitudes, behavior and preferences. One important aspect of this idea is that human understanding is "state-independent". For example: when you are angry, it's difficult to imagine what it's like to be calm and vice versa.  
-Hot-cold empathy gaps can be analyzed by their direction:
-- Hot to cold: People under visceral influences find it difficult to estimate how much their short term goals align with long term goals.
-- Cold to hot: Difficulty in imagining oneself in a hot state. The motivational strength of visceral strength can be minimized. Unpreparedness (when visceral emotions actually arise) is another effect.
-
-
-
 ## Chasing Knowledge
 I'm interested in a myriad of things and have invested a significant amount of time reading books and blogs, watching lectures and so on. It makes me wonder if I can improve this process of amateur scholarship which is so very vital for me. I wonder what is the best way to think about this...this is slightly uncomfortable, because I don't know how to proceed.
 - Probably the first thing to decide is what's exciting to you? It might not be what has worked in the past, or even something you haven't thought.
@@ -58,29 +44,26 @@ I'm interested in a myriad of things and have invested a significant amount of t
 
 
 ## Upgrading your wetware
-Learning is a life-long engagement, and like anything worth doing, can be done in better ways. It takes time and effort to learn and so being more efficient at it is obviously desired.
-- A knowledge incorporating system: A system is needed which can allow things read/learned to be incorporated into the mental models. It should be easy to see how the new bit of information fits in with already existing ones (reconsolidating). It should also be easy to revise and revisit the pieces.
-Few open questions are: When to take notes (don't make me a note-taking monster; ensure that the notes are useful and capture bits of insight more detailed than mere headings). What exactly is the process.  
+Learning is a life-long engagement, and like anything worth doing, can be done in better ways. It takes time and effort to learn, and therefore being more efficient at it is obviously desired.
+- *A knowledge incorporating system*  
+A system is needed which can allow things read/learned to be incorporated into the mental models. It should be easy to see how the new bit of information fits in with already existing ones (reconsolidating). It should also be easy to revise and revisit the pieces.  
+One open question is: When to take notes (don't make me a note-taking monster vs ensure that the notes are plenty enough to be useful; capturing bits of insight more detailed than mere headings). What exactly is the process?
 
-- Writing: As a form of self expression and communication, it should become clearer, more engaging and useful. As a way to journal and think clearly, it should be used more and more often, and to a fuller extent.
-- Reading: Reading any text at the right speed is a skill that can be developed. `Skimming` for example is a basic exercise and should be performed regularly to keep it sharp. Comprehension and understanding needs to be deliberately practiced as well.
+- *Writing*  
+As a form of self expression and communication, it should become clearer, more engaging and useful. As a way to journal and think clearly, it should be used more and more often, and to a fuller extent.
+- *Reading*  
+Reading any text at the right speed is a skill that can be developed. `Skimming` for example is a basic exercise and should be performed regularly to keep it sharp. Comprehension and understanding needs to be deliberately practiced as well.
+- *Being ferociously interested*  
+It's necessary to be interested in what you are working on. Slogging your way through with stubborn willpower is suboptimal, and will breed discontent, leading you to become suspicious of your endeavors, or worse quit them.   
+Cultivate curiosity. Notice confusion. Try hard to find what's interesting about something.
 
 
 ### Learning is an end in itself, and also a part of something bigger
 - Learning is about engaging curiosity and annihaliting it. But it's also meant to be a birthplace of many a hacks!
 - Strive for expertise, so you have more impact. Strive for impact, so you have more expertise.
 - Hands-on imperative is crucial. Define your project. This is not a place to doodle.
-- Open-source and big-impact areas in your company are obviously great places to code and do things. Exploring interesting things (and blog about it if still interested) is another.
-- Hacking is however not limited to programming - Understanding and using gamification in parts of your life can be an intersting experiment.
-
-
-### Multiple passes of the test
-1. Do a `skim`: headers; a few sentences here and there; questions at the end (if there are any); introductory and conclusion paragraphs
-2. In the second pass, read the text carefully. [Or go for a second denser skim (called scanning) if the chapter was too complex]
-3. In the 3rd pass, skim the bibliographic/reference sections, note anything worth exploring.
-4. Repeat from 1 for things found in references.
-
-A useful idea for exploring the references is to be a specialist, rather than a generalist - To just follow through a single topic rather than run off on tangentials. It helps by not making you overwhelmed. 
+- Open-source and big-impact areas in your company are obviously great places to code and do things. Exploring interesting things (and blogging) is another.
+- Hacking is however not limited to programming - Understanding and using gamification in parts of your life can be an interesting experiment.
 
 
 ## Replacing guilt
