@@ -3,7 +3,7 @@
 , siteBaseUrl =
     Some "https://sudeepdino008.github.io/"
 , theme =
-    "grey"
+    "brown"
 , author =
     Some "Sudeep"
 }
