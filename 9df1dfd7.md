@@ -61,7 +61,7 @@ Cultivate curiosity. Notice confusion. Try hard to find what's interesting about
 ### Learning is an end in itself, and also a part of something bigger
 - Learning is about engaging curiosity and annihaliting it. But it's also meant to be a birthplace of many a hacks!
 - Strive for expertise, so you have more impact. Strive for impact, so you have more expertise.
-- Hands-on imperative is crucial. Define your project. This is not a place to doodle.
+- Hands-on imperative. Define your project. This is not a place to doodle.
 - Open-source and big-impact areas in your company are obviously great places to code and do things. Exploring interesting things (and blogging) is another.
 - Hacking is however not limited to programming - Understanding and using gamification in parts of your life can be an interesting experiment.
 
@@ -70,7 +70,7 @@ Cultivate curiosity. Notice confusion. Try hard to find what's interesting about
 Personal list to remove it:
 - Eat your frog first thing in morning
 - Work on what truly matters
-- Have good defaults i.e. calling people up, rather than playing video games.
+- Have good defaults e.g. calling people up, rather than playing video games.
 - Exercise if you aren't starting anything because you are feeling lethargic
 - Meditate if feeling overwhelmed
 
@@ -91,7 +91,7 @@ It's not that your values are inherently unknowable, if you live long enough, yo
 - Self is complex, a multitude of conflicting interests.
 - Many of these interests (like ingroupism) was relevant for ancestral environments, but is not so relevant now. It might also infact stand against your aesthetic sense of justice and fair play (the kind of stuff Buddhism asserts).
 - You might think that you don't care about people outside your social group. But is it really true? Are you confusing caring and feeling?
-- It's possible to be not feel anything for a person, and still care for ze (as much as you do for your friends, if not more).
+- It's possible to not feel anything for a person, and still care for ze (as much as you do for your friends, if not more).
 - The question remains as to why you would want to do such a thing. 
 
 
