@@ -19,3 +19,7 @@ Neuron needs to support this in its site generation. See [github issue](https://
 Hand drawn images (almost xkcd like), with a cool option to "copy to clipboard as png/svg"
 
 ![Excalidraw Example](static/excalidraw_example.png)
+
+4. **[DiffChecker](https://www.diffchecker.com/)** \
+Check diffs between texts/images/pdfs/excel/folders. \
+Also has a CLI version.

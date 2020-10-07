@@ -97,3 +97,7 @@ It's not that your values are inherently unknowable, if you live long enough, yo
 
 ## Will two ideal rationalist always agree?
 No. Because the two might have different value systems, and that can cause them to agree to different paths. 
+
+
+## Accurate science fiction:
+https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9
