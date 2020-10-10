@@ -23,3 +23,9 @@ Hand drawn images (almost xkcd like), with a cool option to "copy to clipboard a
 4. **[DiffChecker](https://www.diffchecker.com/)** \
 Check diffs between texts/images/pdfs/excel/folders. \
 Also has a CLI version.
+
+5. **[Asciinema](https://asciinema.org/)** \
+Record and share your terminal sessions (the right way). Forget screen recording apps and  blurry video. \
+Allows the viewer to copy paste the command as well (it's all text) \
+Allows easy embedding in your blog post. \
+Use `asciinema rec` to start recording

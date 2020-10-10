@@ -101,3 +101,50 @@ No. Because the two might have different value systems, and that can cause them 
 
 ## Accurate science fiction:
 https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9
+
+
+## The Almanack of Naval Ravikant
+### To avoid competition, be authentic
+People compete when they seek to be like everyone else.  
+This is the best time to offer something no one else can.  
+Become the best in the world at what you do. Keep redefining what you do until
+this is true.  
+Work as hard as you can. Even though who you work with and what you work on are more
+important than how you work.
+### What are your core strengths? Are you the best at it? 
+Work iteratively towards being the best at it.
+### Applied Scientists are the most powerful people in the world.
+It'll be more obvious in coming years. Downstream to it is technology.
+Further downstream is society, business and money.
+### Learn
+Study: Microeconomics, game theory, pschology, persuasion, ethics, maths, computer science
+Reading is faster than listening. Doing is faster than watching.
+### Becoming rich
+To become rich you must have equity, a piece in a business, which'll earn you money even 
+when you are sleeping.
+### Foundations are superimportant
+- Basic arithmetic and numeracy > calculus
+- convey youself in simple english >> knowing 7 different foreign languages.
+- Knowing how to be persuasive when speaking >> being an expert digital marketer
+- You can only achieve mastery in one or two things. It's usually the things you're obsessed about.
+### Compound interest
+- All the returns in life, whether in wealth, relationships or knowledge, come from compound interest.
+- Someone might be as talented as you, but if ze has worked on having a sterling reputations, and kept 
+building it year after year, ze's going to be worth vastly more than you.
+- This is also true when working with individual people.
+- When you find the right thing to do, when you find the right people to work with, invest deeply.
+### 99% of effort is wasted.
+- Obviously, nothing is ever completely wasted because it's a part of the learning experience. In school, the 
+exams, projects and exercises you did, geography and history lessons learned etc. are never really applied 
+to a significant degree in what you are doing today. 
+- But of course, these are learning experiences, you learned the value of hard work. Somethings might have seeped
+deep into your psyche. But when it comes to the goal-oriented life, only 1% of the efforts you made paid off. 
+- Same is true for dating. Until you met your husband/wife, all the other people were wasted time in the goal 
+sense. Not wasted in exponential sense, not wasted in learning sense, but wasted in goal sense.
+- This is a reminder to be thoughtful and realize that in most things (relationships, work, learning), what you're
+trying to do is find that thing you can go all-in to earn compound interest.
+- It's not that we shouldn't do the 99%, because it's hard to identify what the 1% is. Instead: when you find that 
+1% of your discipline that will not be wasted, you'll be able to invest in it for the rest of your life. You can 
+go all-in. Forget about the rest.
+
+
