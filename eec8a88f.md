@@ -29,3 +29,9 @@ Record and share your terminal sessions (the right way). Forget screen recording
 Allows the viewer to copy paste the command as well (it's all text) \
 Allows easy embedding in your blog post. \
 Use `asciinema rec` to start recording
+
+6. **[Emacs: Undo History](https://elpa.gnu.org/packages/undo-tree.html)**
+Treat undo history as a tree
+
+7. **[Gps point plotter](https://gpspointplotter.com/)**
+Given a bunch of gps points (lat, long), plot the route on a map view.
