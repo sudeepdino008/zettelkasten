@@ -119,20 +119,11 @@ Further downstream is society, business and money.
 ### Learn
 Study: Microeconomics, game theory, pschology, persuasion, ethics, maths, computer science
 Reading is faster than listening. Doing is faster than watching.
-### Becoming rich
-To become rich you must have equity, a piece in a business, which'll earn you money even 
-when you are sleeping.
 ### Foundations are superimportant
 - Basic arithmetic and numeracy > calculus
 - convey youself in simple english >> knowing 7 different foreign languages.
 - Knowing how to be persuasive when speaking >> being an expert digital marketer
 - You can only achieve mastery in one or two things. It's usually the things you're obsessed about.
-### Compound interest
-- All the returns in life, whether in wealth, relationships or knowledge, come from compound interest.
-- Someone might be as talented as you, but if ze has worked on having a sterling reputations, and kept 
-building it year after year, ze's going to be worth vastly more than you.
-- This is also true when working with individual people.
-- When you find the right thing to do, when you find the right people to work with, invest deeply.
 ### 99% of effort is wasted.
 - Obviously, nothing is ever completely wasted because it's a part of the learning experience. In school, the 
 exams, projects and exercises you did, geography and history lessons learned etc. are never really applied 

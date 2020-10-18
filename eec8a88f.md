@@ -35,3 +35,6 @@ Treat undo history as a tree
 
 7. **[Gps point plotter](https://gpspointplotter.com/)**
 Given a bunch of gps points (lat, long), plot the route on a map view.
+
+8. **[Color explorer](https://www.color-hex.com/)**
+Color explorer using hex/rgb etc. Generates css and html code.
