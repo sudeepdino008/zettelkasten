@@ -1,6 +1,7 @@
 ---
 date: 2020-10-04T23:18
 tags: 
+  - explore-further
   - finance
 ---
 
@@ -17,6 +18,11 @@ Two ways by which money can raise money - Stocks (company is selling shares) and
 This is called `Equity`.
 - If company has *n* number of shares, then the share value is `Equity/n`. If someone was offering shares less than this value, we might buy it, if offered more, we might sell it.
 
+### Compounding in Stocks
+- The interest you earn in bank accounts is compounding interest, where the interest that you earned at the end of the year or quarter goes back into calculating the interest earned for next period. At 2.75% average, it would take 26 years for the money to double.
+- Stocks don't give compound interest, stock value go up and down over the years, but if you take the average, S&P for example has grown by 8-9% every year.
+
+
 ## Bonds
 - part *lender* to the company
 - You are providing debt to the company.
@@ -26,6 +32,12 @@ This is called `Equity`.
 
 ### What happens when the company decides to liquidate its assets (maybe because the business doesn't make sense anymore)?
 - Who gets paid first? The Bond owners or the stock owners?
+
+
+### Stocks which I'm interested in investing
+
+- companies which'll invest in VR technologies, preferably with an intersection in gaming. **Sony** for example
+- Google is always good
 
 #### Resource
 1. [What it means to buy a company's stock - Khan academy](https://www.khanacademy.org/college-careers-more/personal-finance/pf-investment-vehicles-insurance-and-retirement/pf-stocks-intro-tutorial/v/what-it-means-to-buy-a-company-s-stock?modal=1)

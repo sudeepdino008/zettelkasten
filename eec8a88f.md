@@ -30,6 +30,9 @@ Allows the viewer to copy paste the command as well (it's all text) \
 Allows easy embedding in your blog post. \
 Use `asciinema rec` to start recording
 
+6. **[LICECap](https://www.cockos.com/licecap/)**
+desktop app to screen capture in gif form on mac
+
 6. **[Emacs: Undo History](https://elpa.gnu.org/packages/undo-tree.html)**
 Treat undo history as a tree
 
@@ -38,3 +41,5 @@ Given a bunch of gps points (lat, long), plot the route on a map view.
 
 8. **[Color explorer](https://www.color-hex.com/)**
 Color explorer using hex/rgb etc. Generates css and html code.
+
+9. **[SIP calculator](https://sipcalculator.in/result)**
