@@ -5,14 +5,19 @@ date: 2020-10-25T19:35
 # Haskell workflows
 
 - `ghci` for haskell REPL.
-- change prompt
+
 ```bash
+# change prompt
 :set prompt "ghci> "
-```
-- enable multi-line input
-```bash
+
+# enable multi-line input
 ghci> :set +m
+
+# load file
+:l file.hs
 ```
+In emacs, do `C-c C-l` to load file
+Type `main` in prompt to execute the main module
 
 - Loaded files must have main module
 ```
@@ -23,10 +28,6 @@ main =
   print (take 2 pentagons)
 ```
 
-- load file:
-```
-:l file.hs
-```
-
-In emacs, do `C-c C-l` to load file
-Type `main` in prompt to execute the main module
+## [Haskell/Indentation](https://en.wikibooks.org/wiki/Haskell/Indentation)
+**Golden rule**: Code which is part of some expression should be indented further in than the beginning of that expression (even if the expression is not the leftmost element of the line).  
+Semicolons and curly braces can be used removing the need to rely on indentation
