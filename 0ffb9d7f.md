@@ -8,7 +8,7 @@ date: 2020-10-10T00:03
 > Courage to change the things I can, 
 > and Wisdom to know the difference.
 
-> My idea of the modern Stoic sage is someone who tranforms
+> My idea of the modern Stoic sage is someone who transforms
 > fear into prudence,
 > pain into information,
 > mistakes into initiation,
