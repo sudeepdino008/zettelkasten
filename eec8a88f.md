@@ -33,13 +33,17 @@ Use `asciinema rec` to start recording
 6. **[LICECap](https://www.cockos.com/licecap/)**
 desktop app to screen capture in gif form on mac
 
-6. **[Emacs: Undo History](https://elpa.gnu.org/packages/undo-tree.html)**
+7. **[Emacs: Undo History](https://elpa.gnu.org/packages/undo-tree.html)**
 Treat undo history as a tree
 
-7. **[Gps point plotter](https://gpspointplotter.com/)**
+8. **[Gps point plotter](https://gpspointplotter.com/)**
 Given a bunch of gps points (lat, long), plot the route on a map view.
 
-8. **[Color explorer](https://www.color-hex.com/)**
+9. **[Color explorer](https://www.color-hex.com/)**
 Color explorer using hex/rgb etc. Generates css and html code.
 
-9. **[SIP calculator](https://sipcalculator.in/result)**
+10. **[SIP calculator](https://sipcalculator.in/result)**
+
+11. **[auto layout errors in iOS](https://www.wtfautolayout.com/)**
+
+12. <ff0a4d8a>
