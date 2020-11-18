@@ -54,8 +54,6 @@ As a form of self expression and communication, it should become clearer, more e
 - *Reading*  
 Reading any text at the right speed is a skill that can be developed. `Skimming` for example is a basic exercise and should be performed regularly to keep it sharp. Comprehension and understanding needs to be deliberately practiced as well.
 - *Being ferociously interested*  
-It's necessary to be interested in what you are working on. Slogging your way through with stubborn willpower is suboptimal, and will breed discontent, leading you to become suspicious of your endeavors, or worse quit them.   
-Cultivate curiosity. Notice confusion. Try hard to find what's interesting about something.
 
 
 ### Learning is an end in itself, and also a part of something bigger
@@ -117,7 +115,7 @@ Work iteratively towards being the best at it.
 It'll be more obvious in coming years. Downstream to it is technology.
 Further downstream is society, business and money.
 ### Learn
-Study: Microeconomics, game theory, pschology, persuasion, ethics, maths, computer science
+Study: Microeconomics, game theory, psychology, persuasion, ethics, maths, computer science
 Reading is faster than listening. Doing is faster than watching.
 ### Foundations are superimportant
 - Basic arithmetic and numeracy > calculus

@@ -15,4 +15,4 @@ date: 2020-10-10T00:03
 > and desire into undertaking.  
 > -- Nassim Taleb
 
-## <d37294ef>
+## [[[d37294ef]]]
