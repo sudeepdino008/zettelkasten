@@ -7,6 +7,8 @@ tags:
 
 # ego is the enemy
 
+
+
 ## TODO: previous chapters
 ## TODO: breakdown into zettels
 
@@ -36,3 +38,8 @@ The tendency is to imagine their successes and then building/imagining things th
 > How can we be creative within the realm of practicality?
 - Living clearly and presently takes courage. Living in the haze of abstract, is easy but also endless misery. It's an antithesis to flow and awareness. 
 - There's no one to perform for. Just work to be done, and lessons to be learned.
+
+
+
+## Review
+It's only a mildly exciting read; Nothing spectacular. But it is essential; Soul's bread and butter. The basics of right being.
