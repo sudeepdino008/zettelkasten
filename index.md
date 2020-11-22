@@ -10,4 +10,12 @@ Hosted here: [link](https://sudeepdino008.github.io/zettelkasten/z-index.html)
 * [[9cfae20f]]
 * [[f52d68f5]]
 
-[[9df1dfd7]]
+
+## Book Notes and Reviews:
+[[z:zettels?tag=books]]
+
+## Explore Further:
+[[z:zettels?tag=explore-further]]
+
+
+
