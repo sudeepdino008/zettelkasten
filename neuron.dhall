@@ -3,7 +3,7 @@
 , siteBaseUrl =
     Some "https://sudeepdino008.github.io/"
 , theme =
-    "brown"
+    "grey"
 , author =
     Some "Sudeep"
 , formats = ["markdown"]

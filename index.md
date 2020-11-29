@@ -14,8 +14,11 @@ Hosted here: [link](https://sudeepdino008.github.io/zettelkasten/z-index.html)
 ## Book Notes and Reviews:
 [[z:zettels?tag=books]]
 
-## Explore Further:
+## Needs Further Exploration :
 [[z:zettels?tag=explore-further]]
+
+## Daily Notes:
+[[[z:zettels?tag=journal/daily]]]
 
 
 

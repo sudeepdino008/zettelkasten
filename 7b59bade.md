@@ -5,7 +5,7 @@ tags:
   - books
 ---
 
-# ego is the enemy
+# Ego is the enemy
 
 
 
