@@ -1,11 +1,13 @@
 ---
 date: 2020-09-24T23:17
+tags: 
+  - index
 ---
 
 # Engineering
 
 - [[[38f0b39e]]]
-- [[[3cb2bcc8]]]
+- [[[3cb2bcc8]]] and [[[c1d717f7]]]
 - [[[5d92506c]]]
 - [[[d239e468]]]
 - [[[c9da2f2a]]]
