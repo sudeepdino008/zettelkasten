@@ -1,7 +1,6 @@
 # Overview
-
-Personal zettelkasten based on [neuron](https://neuron.zettel.page/) and emacs neuron-mode.
-Hosted here: [link](https://sudeepdino008.github.io/zettelkasten/z-index.html)
+Personal zettelkasten based on [neuron](https://neuron.zettel.page/).  
+Zettelkasten are more of a "second brain" rather than a blog. Therefore, the expectation is not to have blog worthy notes. Most will be contextual and unpolished; If you're masochistic enough, you might derive some value from it.
 
 * [[b1751d05]]
 * [[bd78fcd8]]
@@ -10,11 +9,12 @@ Hosted here: [link](https://sudeepdino008.github.io/zettelkasten/z-index.html)
 * [[9cfae20f]]
 * [[f52d68f5]]
 
-
+---
 ## Book Notes and Reviews:
 [[[z:zettels?tag=books]]]
 
-## Needs Further Exploration :
+## Needs Further Exploration:
+The goal is to keep the size of this list under control.  
 [[z:zettels?tag=explore-further]]
 
 ## Daily Notes:
