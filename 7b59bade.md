@@ -39,7 +39,9 @@ The tendency is to imagine their successes and then building/imagining things th
 - Living clearly and presently takes courage. Living in the haze of abstract, is easy but also endless misery. It's an antithesis to flow and awareness. 
 - There's no one to perform for. Just work to be done, and lessons to be learned.
 
-
+## What's important to you.
+- A note on [[653c94f8]]
+-  Life requires tradeoffs. You cannot be an opera singer and a teen pop idol at the same time. Ego doesn't allow tradeoffs. It doesn't want to compromise.
 
 ## Review
 It's only a mildly exciting read; Nothing spectacular. But it is essential; Soul's bread and butter. The basics of right being.

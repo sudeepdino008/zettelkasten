@@ -1,6 +1,6 @@
 # Overview
 Personal zettelkasten based on [neuron](https://neuron.zettel.page/).  
-Zettelkasten are more of a "second brain" rather than a blog. Therefore, the expectation is not to have blog worthy notes. Most will be contextual and unpolished; If you're masochistic enough, you might derive some value from it.
+Zettelkasten are more of a "second brain" rather than a blog. Therefore, the expectation is not to have blog worthy notes. You might derive some value out of it, despite the notes being contextual and unpolished for large parts.
 
 * [[b1751d05]]
 * [[bd78fcd8]]
