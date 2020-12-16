@@ -261,7 +261,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </code></pre></div><ol start="4"><li><h4 id="cond-returns-the-first-true-condition">cond: returns the first true condition</h4></li></ol><div class="pandoc-code nosyntax"><pre><code class="emacs">(setq value 6)
 (cond ((&gt; value 10) &quot;greater than 10&quot;)
       ((&gt; value 5) &quot;greater than 5&quot;)
-      (&quot;less than 5&quot;))</code></pre></div><h2 id="emacs-lisp">Emacs lisp</h2><h3 id="reference-httpswwwfincherorgtipslanguagesemacsshtml">Reference: https://www.fincher.org/tips/Languages/Emacs.shtml</h3><ol><li>simpler than common lisp. But an optional extensions file, <code>c.el</code> contains many common lisp features.</li><li>list operations:<ul><li><strong>car, cons, cdr, list, append</strong></li></ul><div class="pandoc-code nosyntax"><pre><code>;; nthcdr : returns the &#39;nth&#39; cdr
+      (&quot;less than 5&quot;))</code></pre></div><h2 id="emacs-lisp">Emacs lisp</h2><h3 id="reference-httpswwwfincherorgtipslanguagesemacsshtml">Reference: <a href="https://www.fincher.org/tips/Languages/Emacs.shtml">https://www.fincher.org/tips/Languages/Emacs.shtml</a></h3><ol><li>simpler than common lisp. But an optional extensions file, <code>c.el</code> contains many common lisp features.</li><li>list operations:<ul><li><strong>car, cons, cdr, list, append</strong></li></ul><div class="pandoc-code nosyntax"><pre><code>;; nthcdr : returns the &#39;nth&#39; cdr
 
 (setq lis &#39;(a b c d e))
 (nthcdr 2 lis)

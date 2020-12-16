@@ -237,13 +237,13 @@ code span.va { color: #000000; } /* Variable */
 code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
 </style></head><body><div class="ui fluid container" id="neuron-theme-default-brown"><nav class="top-menu"><div class="ui inverted compact neuron icon menu brown"><a class="left item" href="." title="Home"><i class="home icon"></i></a><a class="left item" href="search.html" title="Search Zettels"><i class="search icon"></i></a><a class="right item" href="z-index.html" title="All Zettels (z-index)"><i class="tree icon"></i></a></div></nav><nav class="flipped tree deemphasized" id="zettel-uptree" style="transform-origin: 50%"><ul class="root"><li><ul><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link"><a href="c03ab52f.html">Haskell</a></span></span></div><ul><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link" data-inverted="" data-position="right center" data-tooltip="Tags: index"><a href="5d92506c.html">Functional Programming</a></span></span></div><ul><li><div class="forest-link"><span class="zettel-link-container"><span class="zettel-link" data-inverted="" data-position="right center" data-tooltip="Tags: index"><a href="9cfae20f.html">Engineering</a></span></span></div></li></ul></li></ul></li></ul></li></ul></nav><div class="ui text container" id="zettel-container" style="position: relative"><div id="zettel-container-anchor" style="position: absolute; top: -24px; left: 0"></div><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="haskell-workflows">Haskell workflows</h1><ul><li><code>ghci</code> for haskell REPL.</li></ul><div class="pandoc-code highlighted"><pre><code class="bash"><span class="co"># change prompt</span>
-<span class="">:</span><span class="ex">set</span><span class=""> prompt </span><span class="st">&quot;ghci&gt; &quot;</span>
+<span class="ex">:set</span><span class=""> prompt </span><span class="st">&quot;ghci&gt; &quot;</span>
 
 <span class="co"># enable multi-line input</span>
 <span class="ex">ghci</span><span class="op">&gt;</span><span class=""> :set +m</span>
 
 <span class="co"># load file</span>
-<span class="">:</span><span class="ex">l</span><span class=""> file.hs</span>
+<span class="ex">:l</span><span class=""> file.hs</span>
 </code></pre></div><p>In emacs, do <code>C-c C-l</code> to load file Type <code>main</code> in prompt to execute the main module</p><ul><li>Loaded files must have main module</li></ul><div class="pandoc-code nosyntax"><pre><code>isp n = floor f == ceiling f  where f = ((1 + sqrt (1 + 24 * n)) / 6)
 pentagons = [floor x | x &lt;- [1,2..], isp x]
 
