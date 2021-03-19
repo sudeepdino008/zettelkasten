@@ -47,3 +47,7 @@ Color explorer using hex/rgb etc. Generates css and html code.
 11. **[auto layout errors in iOS](https://www.wtfautolayout.com/)**
 
 12. [[[ff0a4d8a]]]
+
+13. [Kotlin playground](https://play.kotlinlang.org/)
+
+14. [Dive: Explore Docker Image Layers](https://www.youtube.com/watch?v=uBd7QPvhLMU)

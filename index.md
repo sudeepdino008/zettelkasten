@@ -8,6 +8,7 @@ Zettelkasten are more of a "second brain" rather than a blog. Therefore, the exp
 * [[[0899dcb9]]]
 * [[9cfae20f]]
 * [[f52d68f5]]
+* [[[3728af42]]]
 
 ---
 ## Book Notes and Reviews:
