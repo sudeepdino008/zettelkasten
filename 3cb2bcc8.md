@@ -16,3 +16,20 @@ date: 2020-09-24T23:17
 - switch case works using the pattern matching operator (`~=`)
 - [[[e2134e12]]]
 - [Texture - Smooth asynchronous user interfaces for iOS apps.](https://github.com/texturegroup/texture)
+
+
+
+
+## Fundamentals plan
+#### resources: raywenderlich, apple documentation (archived and latest)
+
+- UIKit: layouts
+- UIKit: table view, scroll view, collection view
+- UIView overview and properties
+- CA layers
+- UIKit: windows and screens
+- navigation and transition
+- UIControl
+- Core graphics
+- animation
+- user interaction

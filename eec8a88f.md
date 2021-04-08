@@ -16,7 +16,7 @@ To process markdown codeblocks into images or ascii art
 Neuron needs to support this in its site generation. See [github issue](https://github.com/srid/neuron/issues/363) 
 
 3. **[Excalidraw](https://excalidraw.com/)**  
-Hand drawn images (almost xkcd like), with a cool option to "copy to clipboard as png/svg"
+Hand drawn images (almost xkcd like), with a cool option to "copy to clipboard as png/svg"; dark mode
 
 ![Excalidraw Example](static/excalidraw_example.png)
 
@@ -51,3 +51,10 @@ Color explorer using hex/rgb etc. Generates css and html code.
 13. [Kotlin playground](https://play.kotlinlang.org/)
 
 14. [Dive: Explore Docker Image Layers](https://www.youtube.com/watch?v=uBd7QPvhLMU)
+
+15. [open source ERP for everyone](https://erpnext.org/)
+
+16. [draw UML diagrams](
+https://staruml.io/)
+
+17. [draw UML diagrams, wireframes, flowcharts etc.](https://app.diagrams.net/)
