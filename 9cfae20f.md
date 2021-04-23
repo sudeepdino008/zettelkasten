@@ -6,6 +6,9 @@ tags:
 
 # Engineering
 
+## Mindset
+- [[[2cc844b7]]]
+
 ## Technical
 
 - [[[38f0b39e]]]
