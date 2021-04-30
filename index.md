@@ -12,14 +12,14 @@ Zettelkasten are more of a "second brain" rather than a blog. Therefore, the exp
 
 ---
 ## Book Notes and Reviews:
-[[[z:zettels?tag=books]]]
+[[z:zettels?tag=books]]
 
 ## Needs Further Exploration:
 The goal is to keep the size of this list under control.  
 [[z:zettels?tag=explore-further]]
 
 ## Daily Notes:
-[[[z:zettels?tag=journal/daily]]]
+[[z:zettels?tag=journal/daily]]
 
 
 

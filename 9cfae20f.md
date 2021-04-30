@@ -6,12 +6,8 @@ tags:
 
 # Engineering
 
-## Mindset
-- [[[2cc844b7]]]
-
 ## Technical
 
-- [[[38f0b39e]]]
 - [[[3cb2bcc8]]] and [[[c1d717f7]]]
 - [[[d239e468]]]
 - [[[1a9925f5]]]
@@ -19,10 +15,8 @@ tags:
 - [[[3c5c94e6]]]
 - [[[4fc7f96f]]]
 
-## Views
-- [[[48bf2767]]]
-- [[[cab3b887]]]
+## [[[b0c9f052]]]
 
 ## Others
-- [[[52cbeace]]]
-- [[[0f064f68]]]
+- [[52cbeace]]
+

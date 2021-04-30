@@ -58,3 +58,7 @@ Color explorer using hex/rgb etc. Generates css and html code.
 https://staruml.io/)
 
 17. [draw UML diagrams, wireframes, flowcharts etc.](https://app.diagrams.net/)
+
+18. [[[0f064f68]]]
+
+19. [[[38f0b39e]]]
