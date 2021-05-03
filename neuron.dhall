@@ -7,4 +7,5 @@
 , author =
     Some "Sudeep"
 , formats = ["markdown"]
+, plugins = ["neuronignore", "links", "uptree", "feed", "dirtree"]
 }

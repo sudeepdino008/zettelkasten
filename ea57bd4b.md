@@ -10,3 +10,4 @@ The other way is via the path of mastery. It's still an intense path, but peacef
 
 - What if I stop thinking too much into success and money, and instead try to optimise on better features like curiosity, contribution and experience?
 - What does the above mean? It means that you ask questions, hunt for them, look at what's interesting about them. 
+- [[[ea7e0244]]]
