@@ -2,7 +2,7 @@
 tags: 
   - pinned
 ---
-# Overview
+# Zettelkasten
 Personal zettelkasten based on [neuron](https://neuron.zettel.page/).  
 Zettelkasten are more of a "second brain" rather than a blog. Therefore, the expectation is not to have blog worthy notes. You might derive some value out of it, despite the notes being contextual and unpolished for large parts.
 
@@ -17,13 +17,6 @@ Zettelkasten are more of a "second brain" rather than a blog. Therefore, the exp
 ---
 ## Book Notes and Reviews:
 [[z:zettels?tag=books]]
-
-## Needs Further Exploration:
-The goal is to keep the size of this list under control.  
-[[z:zettels?tag=explore-further]]
-
-## Daily Notes:
-[[z:zettels?tag=journal/daily]]
 
 
 
