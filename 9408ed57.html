@@ -190,7 +190,7 @@ fn openfile4() -&gt; Result&lt;String, io::Error&gt; {
         },
     };
 
-    match  {
+    match f {
         Ok(mut fileh) =&gt; {
             let mut s = String::new();
             match fileh.read_to_string(&amp;mut s) {
