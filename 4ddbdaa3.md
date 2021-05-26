@@ -1,5 +1,7 @@
 ---
 date: 2021-05-13T17:14
+tags: 
+  - rust
 ---
 
 # Rust: Structs
