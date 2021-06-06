@@ -19,6 +19,10 @@ Certificate authorities, web of trust egc.
 - cryptocurrencies have no inbuilt PKI: "not your keys, not your coins"
 
 
+## public keys != Addresses
+following is for bitcoin:
+- your address is `A(pk)` where `A` is a rather convoluted multi-hashing process. Thus. **P2PKH** ("pay to public key hash") as opposed to **P2PK** ("pay to public key")
+- addresses are represented in **Base58Check** format - [1-9A-Za-z] without capital 'O', 0, 'l', 'I' - to  avoid confusion. Also includes a 4 byte checksum at the end.
 
 ### asymmetric key and digital signatures
 - [[[5b23c238]]]
