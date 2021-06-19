@@ -323,7 +323,7 @@ impl&lt;T: Display&gt; ToString for T {
         }
     }
 
-    let person = Human;
+    let person = Human();
     Pilot::fly(&amp;person); // Pilot text
     &lt;Human as Pilot&gt;::fly(&amp;person); // Pilot text
     person.fly(); // Human text
