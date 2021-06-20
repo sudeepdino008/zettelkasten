@@ -174,6 +174,10 @@ body code, pre, tt {
   font-display: swap;
 }
 
+.ui.segment {
+    background-color: #fffff0;
+}
+
 </style>
 <!--replace-end-7--><!--replace-end-4--><!--replace-end-1--></head><body><div class="ui fluid container universe"><!--replace-start-2--><!--replace-start-3--><!--replace-start-6--><div class="ui text container" id="zettel-container" style="position: relative"><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="title-h1">Rust: Functional Programming features</h1><ul><li>memoization: a struct holding closure and lazily alloted value from it (optional).</li><li>Closure types implement <code>Fn</code> trait.</li><li>closures can also capture environment parameters in the same ways via which function take parameters.</li><li><code>FnOnce</code>: taking ownership; <code>FnMut</code>: mutable borrow; <code>Fn</code>: borrow</li><li><code>move</code> keyword is used to take ownership in closures</li><li>traits implemented by closure types are decided by what closure does with captured value, not how it captures them. <code>move</code> specifies only the latter.</li></ul><p><strong>closure definitions</strong></p><pre><code class="rust language-rust">
 pub fn closure_defs() {

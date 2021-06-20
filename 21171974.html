@@ -174,6 +174,10 @@ body code, pre, tt {
   font-display: swap;
 }
 
+.ui.segment {
+    background-color: #fffff0;
+}
+
 </style>
 <!--replace-end-7--><!--replace-end-4--><!--replace-end-1--></head><body><div class="ui fluid container universe"><!--replace-start-2--><!--replace-start-3--><!--replace-start-6--><div class="ui text container" id="zettel-container" style="position: relative"><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="title-h1">Rust: Collections</h1><h2 id="vector">vector</h2><p>basic statement: immutable and imutable borrow should not occur in the same scope. The values get allocated on the heap (even struct, which idependently gets allocated on stack)</p><p>this is fine:</p><pre><code class="rust language-rust">    let mut v = vec![1, 2, 3, 4, 5];
 

@@ -174,6 +174,10 @@ body code, pre, tt {
   font-display: swap;
 }
 
+.ui.segment {
+    background-color: #fffff0;
+}
+
 </style>
 <!--replace-end-7--><!--replace-end-4--><!--replace-end-1--></head><body><div class="ui fluid container universe"><!--replace-start-2--><!--replace-start-3--><!--replace-start-6--><div class="ui text container" id="zettel-container" style="position: relative"><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 id="title-h1">Rust: Unsafe</h1><p>unsafe rust: do not enforce memory safety guarantees of rust. underlying computer hardware is inherently unsafe. Unsafe operations expose a whole set of tasks not possible with safe rust. unsafe superpowers:</p><ul><li>dereference a raw pointer</li><li>call an unsafe function or method</li><li>access or modify a mutable static variable</li><li>implement an unsafe trait</li><li>access fields of <code>union</code>s</li></ul><h2 id="dereferencing-a-raw-pointer">dereferencing a raw pointer</h2><ul><li>with raw pointers, you can break the mutable/immutable borrowing rule; pointer isn’t guaranteed to point to valid memory; allowed to be null; doesn’t implement any automatcic cleanup</li><li>raw pointers can be used to have a mutable and immutable reference at the same time, or point to an invalid memory address. So dereferencing a raw pointer from safe rust is not allowed.</li><li>you might want to use raw pointers for use cases like interfacing with C, or building up safe abstractions that the borrow checker doesn’t understand.</li></ul><pre><code class="rust language-rust">fn raw_p() {
     let mut num = 5;
